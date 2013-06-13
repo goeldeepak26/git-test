@@ -8,7 +8,7 @@
 <body>
 <div style="width:400; height:400;margin-left:520px; margin-top:300px;margin-right:575px">
 <form action="process.php" method="post" style="border:1px solid #000;">
-<label> Enter the URLsdfsd </label> <input type="url" name="t1" /><br />
+<label> Enter the URL </label> <input type="url" name="t1" /><br />
 
 <blockquote><blockquote>&nbsp;&nbsp;&nbsp;<input type="submit" name="submit" />
 </form>
